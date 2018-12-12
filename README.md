@@ -17,7 +17,7 @@ Toutes les figures se trouvent dans le dossier /figs, notamment certaines non in
 
 Pour se faire une meilleure idée des processus dynamiques, quelques animations :
 #### MotionClouds
-La structure des MotionClouds (MC) est proche de celle d'un grating, tout en imitant les textures naturelles, donc en rajoutant du bruit et du réalisme dans l'entrée. Ce sont des caractéristiques difficiles à apprécier dans une figure statique, mais tout à fait visible dans cette animation (paramètres 
+La structure des MotionClouds (MC) est proche de celle d'un grating, tout en imitant les textures naturelles, rajoutant du bruit et du réalisme dans l'entrée, ce qui constitue un bon compromis entre un stimulus entièrement paramétrique et une image naturelle. Ce sont des caractéristiques difficiles à apprécier dans une figure statique, mais tout à fait visible dans cette animation (paramètres 
 &theta; = &pi; / 3 , B &theta; = 15°)  :
 
 ![ERROR : Could not load gif. Check if ./figs/mc_anim.gif exists ?](./figs/mc_anim.gif)
