@@ -24,9 +24,10 @@ La structure des MotionClouds (MC) est proche de celle d'un grating, tout en imi
 ![ERROR : Could not load gif. Check if ./figs/mc_anim.gif exists ?](./figs/mc_anim.gif)
 
 #### Gradient de performance
-Pour visualiser le rôle de chacun des paramètres du réseau, une manière de représenter l'espace multidimensionnel des paramètres est de faire des projections 3D de paramètres 2 à 2, en utilisant la performance du réseau comme troisième axe. Par exemple, dans le cas de la constante de temps tau de la STDP et de son coefficient A*, on obtient la carte suivante : 
+Pour visualiser le rôle de chacun des paramètres du réseau, une manière de représenter l'espace multidimensionnel des paramètres est de faire des projections 3D de paramètres 2 à 2, en utilisant la performance du réseau comme troisième axe. Par exemple, dans le cas de la constante de temps tau de la STDP et de son coefficient A*, on obtient la carte de gauche, et dans le cas des ratios LTP/LTD en tau et A*, on a la carte de droite : 
 
 ![ERROR : Could not load gif. Check if ./figs/gradient_anim.gif exists ?](./figs/gradient_anim.gif)
+![ERROR : Could not load gif. Check if ./figs/gradient_ratio_anim.gif exists ?](./figs/gradient_ratio_anim.gif)
 
 On peut alors sélectionner les paramètres qui sont optimaux ET biologiquement plausibles
 
