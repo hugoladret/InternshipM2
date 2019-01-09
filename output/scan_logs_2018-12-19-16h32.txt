@@ -1,0 +1,2400 @@
+SCANNING PARAMETERS @ 2018-12-19-16h32
+Sigmas
+[82.15223079380247, 20.037457944893756, 720.336187533511, 29.557366695434975]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[57.834428896354545, 19.3978321449047, 641.6100782675423, 26.371696121801072]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[56.619123256316485, 18.79646323786596, 637.9854211072524, 23.30638804118606]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[63.64180443350658, 17.24984194278038, 630.4551162956376, 22.57459576914972]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.991392262681416, 17.842742461340624, 600.1683127782738, 21.2974943861138]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[66.01232918418289, 17.348024892176493, 556.5910755907165, 21.236978675359143]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[111.44221930049997, 16.755841360605498, 558.214908980053, 20.611687359613015]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[74.77213717902565, 16.88682508408745, 572.7295569274272, 19.959836319296546]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[67.14196664521491, 16.046994335732634, 528.4758113848845, 19.5833512411477]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[65.22187437993766, 16.845338843618187, 495.6276861860536, 20.829108111293376]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[89.66272602174544, 16.02697965662083, 499.7956347684617, 18.818278172904932]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[61.32426413729148, 15.288302006021517, 507.31272571833205, 18.849859352445336]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[88.3787131557782, 17.15599903359319, 474.01109894270957, 18.467294688224644]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.86847602119075, 16.063526505742253, 471.00185876006543, 18.51760327248118]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[52.804058697440375, 16.48968167674292, 443.08572000852735, 18.69177915732906]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.360440323850746, 15.54598223669058, 482.3948715383123, 16.68996566222292]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[59.066363094921286, 15.258961121864967, 427.6587719481049, 17.876579673629482]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.02974104300826, 15.73277278311545, 380.44435683022715, 17.26810369415746]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[58.771170682851974, 15.82592229156199, 414.1582460669108, 15.351113840367603]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[58.89614268703718, 14.828038430740522, 388.1200903659704, 14.01954620853975]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.0, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[66.39084327053983, 18.61680843373927, 666.7639635959562, 27.756822320229983]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.297063430405416, 17.19389478155039, 672.3793170066101, 24.276268210678992]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.39221855344902, 17.474458394613308, 595.3984804924195, 20.577028848979808]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.328016002434794, 15.660523638942681, 559.5768466487195, 20.598812943151504]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.998432404005236, 16.401090643273776, 518.4845730955327, 20.627875145856397]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.189829714314115, 16.295069029443244, 524.5078556081488, 18.886023950587013]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[57.198577467183334, 17.26849879002199, 515.955453829895, 19.390450852372926]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.61480156251386, 16.70486638675491, 473.9317440226487, 19.730805960377232]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[74.10245298165988, 16.46049545676674, 462.557854960551, 17.487284259639065]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.88162439368546, 16.106611803342698, 431.9718445241936, 18.404599465445493]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.03222446028715, 15.656004385920951, 426.01762231012816, 17.885311220290536]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.60786423111642, 14.547274539710381, 446.9685827429335, 15.182007861615869]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.20075396765418, 14.881132536822713, 418.69282950730997, 17.619135724984535]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.88331115865396, 15.171868255343554, 384.8424896999698, 17.151431997701657]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.46885005020764, 14.80674113899934, 388.6689144554189, 15.145124030570909]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.400901829117664, 14.67597141890471, 388.91430329672676, 14.934830985226931]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.74146986862173, 14.589223006710219, 394.84958489620846, 17.220067213612648]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[60.12970479982686, 15.077560520965992, 377.63779004007773, 14.291384997927446]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[56.090911801098166, 14.271733296924719, 386.38285180089605, 11.156999461826524]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[58.69353112189567, 14.329433562992287, 378.32684933257605, 9.456350387512751]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.4736842105263157, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[88.55696664452591, 17.627695534167042, 665.1667833608929, 22.84652658385472]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[56.275394492844946, 17.64145242921296, 552.9627246278319, 20.280704801358088]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[69.45307363779563, 17.544692296528037, 549.4384048853034, 20.203159568799233]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[60.4427797481375, 16.365204496341992, 486.1536721490915, 19.641318527655297]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.720747182069566, 17.198578450304346, 477.6387555764756, 18.906218708565465]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.770034847434495, 16.196220593254218, 481.34333651733596, 18.11997935100951]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.05843963265087, 16.429928444884673, 445.889320727341, 20.206814406546716]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.27756732157075, 16.91941717621439, 447.3807848232916, 17.550151575155432]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.93206327539133, 16.023802812717292, 436.3109379244187, 17.528401449078395]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.37566862712032, 15.53775643964984, 418.5530925615664, 15.864653379913346]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.65718046802782, 15.353209170336925, 404.4019145061804, 15.683580148523138]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.03813398460217, 14.75411724134639, 399.4647302137473, 15.259130760732063]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.783313729487276, 14.271702045914552, 376.4339198479412, 15.20487698800143]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.24142470557287, 13.9992269379291, 414.71410999465087, 11.693043012459663]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.414678520477366, 13.790780886759201, 414.53844872245423, 9.454060500341749]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.35500726173639, 13.683857091701174, 392.4751674405043, 9.504228420787731]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.85224901184922, 13.934816825973327, 341.2176638964531, 9.118609571101679]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.97544477900279, 13.407689040865883, 362.7797307172539, 8.168097357919025]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.841928559466545, 13.41271575827378, 334.5436615752748, 8.135387747646705]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.6935294680787, 13.540571372277213, 365.7124714225185, 8.951043298673723]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 1.9473684210526314, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[67.15548660299439, 18.51282390290679, 585.8996671448808, 22.91407486957721]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.094192448632256, 18.10076521076487, 492.80225396650684, 20.32075652865023]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[71.18115122177501, 16.953182976121102, 495.73625270974145, 19.69020381639199]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.635017451435594, 16.227049527066036, 471.0002853636258, 19.648601428485254]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[57.997310359468045, 16.45917769787087, 465.082079713668, 20.510587762642338]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.364416802643504, 16.67775200620548, 437.25494692611585, 18.86259186938209]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.48061398465089, 16.014509518128325, 484.2793031844452, 14.93801918612978]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[65.44852669370579, 15.345301197299932, 437.9521114518771, 15.931994893277189]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.25858597839087, 14.336056811719173, 388.529249599486, 15.55979487233732]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.94395083831359, 14.736064706594702, 395.273664328365, 12.232675598921169]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.85592824209775, 14.729647244660534, 397.6847893108086, 14.60526574195672]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.875814498003585, 13.522688500757756, 382.61931233796787, 10.313768534148622]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.606663136016365, 13.793067285391363, 377.4307530837301, 10.197235842285906]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.38272950367148, 12.947254884266222, 373.4870300749506, 9.338661709780622]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.262253916167396, 13.394752840928982, 372.0401974504324, 9.154616019296986]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.60977769927243, 12.720731270912529, 357.75722611303826, 9.005867761442747]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.43956771173493, 13.314999107215574, 349.79583806900285, 9.861039464833329]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.26917548273167, 13.00129408637747, 327.8972266967897, 9.143469085780968]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.461373467603615, 13.309875705284627, 301.69105082972675, 7.484540514932608]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.141820231411046, 12.380240264462788, 300.28543156167603, 8.414415482344094]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.4210526315789473, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.67965526826646, 17.125822124490757, 533.626778189579, 21.883284679935127]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.62557304247191, 16.075299450554937, 518.4672866445964, 19.40804972304512]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.36343626342624, 16.846644960678013, 463.8039773876629, 19.945473055068796]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[58.950261385235805, 16.607756463179175, 437.9434352922895, 19.34835355740032]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[59.17133493859837, 15.690371808095158, 487.6124132424626, 18.6658821895611]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.12419153338425, 15.855983858879906, 448.5362059937567, 17.23139453293399]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.972752188472036, 15.222700096320967, 422.8378241030121, 15.71421237989761]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.796718302819485, 14.212843155846423, 419.1917058032882, 14.003386294018986]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.59864372341441, 15.513523941896583, 407.0688974840302, 11.900868416062497]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[57.53052324962488, 13.460477691359648, 392.76868838374, 9.458762246614063]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.0292186452017, 14.062662771290663, 372.6254097680621, 9.38213855655064]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.070322981305516, 13.892373344084088, 374.41277413957613, 9.999502928851493]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.842354655079006, 13.333667079816312, 348.3781955668485, 10.803966192845225]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.338134040087574, 12.422172888491083, 343.0014719466954, 9.82060294446412]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.807920442751886, 12.29806415708122, 337.56942243163354, 8.877139460693027]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.07122061182242, 12.33370566335423, 330.0663596737147, 8.942734905428706]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.33471727614967, 11.999831382129582, 319.41139314053527, 8.18663643119401]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.35679903971519, 12.521668841771127, 282.823877360647, 8.83895074179093]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.18884688082626, 11.478171458839487, 266.47795228465617, 8.26795558324875]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.44972083902769, 11.831021699209563, 279.60344382105313, 7.925654204758477]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 2.894736842105263, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.53425875127805, 17.467280244364776, 559.6318971636824, 22.859139572254193]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.26744199494049, 15.74850821528381, 468.0767703626249, 18.99079185956947]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[58.487468445240324, 15.94275252224445, 445.18454625749985, 18.82463368141896]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.77540543388548, 15.957865798366395, 441.9478834544572, 18.686593545066717]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.01372036247815, 15.854728136336895, 424.6705660695571, 16.78378860688067]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.46733641822589, 15.202484848542987, 421.1944079045826, 18.15979427430669]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.60324428005992, 14.558128570074787, 405.2293322839405, 15.438204367824245]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.50975170920259, 14.714716460208061, 413.348831977111, 17.089838936611137]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.426284560976754, 14.11818822089501, 379.84715748932337, 10.613641615399752]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.39232404799453, 13.943926300546218, 338.0108817401192, 9.557028646298537]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.10371691508397, 12.877814668428329, 359.06755906583976, 8.703727022678208]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.90438580734411, 12.962191917727896, 342.0790651323494, 8.97722382749085]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.202625735045636, 12.493817163911544, 351.2390574049292, 8.19833404873688]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.36120446333769, 12.002768150684675, 320.4359468666898, 7.83688062452967]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.31010303486589, 11.740322195150998, 321.10241655051396, 8.017823586825921]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.230608073597054, 11.970770874054631, 266.32713233207886, 8.701377819067401]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.49081100779638, 11.062085598987373, 277.5959839850123, 7.4025403190273025]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.27646981135237, 10.216192288181428, 264.8479325769103, 7.59462564528747]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.620746821257875, 10.881076356654809, 258.1547178351099, 7.762592538340428]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.03479842673903, 10.375579710726482, 267.1545300487536, 7.05365962023258]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.3684210526315788, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.57425759135302, 16.532532781987396, 523.1824283416896, 21.431834423266945]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[85.97093358574361, 17.173084654946575, 454.87449552550277, 19.305329797104136]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.37190254817892, 15.901404619421083, 435.4763230782829, 19.976129173052716]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.012304777649184, 15.798271214365695, 471.2836780198336, 16.659657494596228]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.91539527165982, 14.934166127795278, 430.55074683142885, 18.224293269214435]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.72851376032046, 14.326376876472931, 420.5830335044747, 15.52374796171387]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[67.77553240608098, 14.420977361533101, 408.072678516827, 13.513079408602875]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.57352309661047, 14.277245710791858, 404.5890253116114, 13.532465909711197]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.3004794321241, 13.833082543920423, 344.1266380791758, 10.88655956787799]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.59660159288292, 13.0718287928229, 342.7931436537769, 9.750265522319504]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.52462526909129, 13.086309395158285, 304.09091946275544, 9.208617597522707]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.46443746246146, 12.167152115026564, 308.4706731659677, 8.377203453539652]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.44001073464763, 11.51837089188404, 284.7496955336797, 8.523403132332625]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.34294492803361, 11.97807861138609, 259.968191825563, 8.328640251441717]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.831420187083346, 11.385146071725984, 272.6691891879874, 8.202159071801217]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.725538468909626, 11.233511738865307, 232.50601865659567, 7.648362016350887]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.608374816842336, 10.249324265654778, 276.5902391547163, 7.5584981460961735]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.39895372808365, 10.007833749065242, 249.8859345131612, 7.8089322255555675]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.203092361682295, 9.282014358291969, 235.36136517701013, 7.386884988445884]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.41487042476414, 8.88127841695635, 226.8113947428509, 7.205876976396915]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 3.8421052631578947, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[63.667987354066526, 15.982817899789396, 536.3334487189712, 19.71721669365277]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.09637906415146, 16.84230502222572, 470.9474798779793, 19.698388446080813]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.434981045592274, 16.149868301825997, 454.9832246764381, 19.09362784592193]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.11856038681164, 15.066082096651346, 458.2905245910118, 16.91912931654212]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[65.20545012412533, 14.157135429852923, 418.95973142022143, 16.973532279172925]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.72957188345739, 14.833932740438, 428.1318906711534, 13.276476093907739]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.78608701928879, 14.376348378968325, 390.819158261316, 11.34734211262887]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.62018995224206, 12.933139773862518, 374.39024418229184, 9.570648347215194]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.50321275322606, 13.038227884123122, 315.4830305302164, 9.468430504059919]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.544121052789215, 12.344186759419822, 312.32070718531656, 9.286464489579553]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.460199783521716, 12.251816508864227, 307.9934075988697, 7.82564371653873]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.49512677858571, 11.498145255498788, 282.6146623083249, 7.8181007253455554]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.4315298717303, 11.028332604483467, 270.0061287160177, 7.324101255128719]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.76852058237916, 10.901488864564786, 264.34622523436707, 7.988593720033659]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.507818125125276, 10.709554982605582, 272.6466748976539, 7.493597328725995]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.20504789129408, 10.622566632831317, 260.8408711770151, 7.484454642329409]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.54496362175755, 10.175544142109052, 245.82405593670407, 6.936416896533541]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.373547833404324, 9.530623252467805, 248.83135932576332, 7.019513300590434]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.52285688951036, 9.622030849755102, 237.1521772169718, 6.767688985852553]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.71862873831928, 9.86643315187734, 233.36623132995473, 6.887362501420127]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.315789473684211, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[64.62167210517897, 16.955051487339603, 491.8743677056939, 20.446016905734137]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[64.48613597582803, 16.206930569998764, 492.0818054721857, 20.717268050345535]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.19627090775347, 14.80659872637098, 423.32205277465806, 18.94412795106056]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[61.605680973704274, 14.789945456926384, 411.2634266976371, 17.4616294183155]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.431242627910436, 14.71751964618473, 415.53268332373784, 14.965763873063596]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.28507867349435, 14.38330010402806, 396.46836705175036, 13.308419387974773]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.38511792895499, 13.421359068964149, 364.4270320151772, 9.718955820603778]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.37317544077943, 12.75079269660826, 339.4857745470297, 8.29112556135605]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.782788569297814, 11.873590723664652, 318.9646989458732, 8.099494264652943]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.161353296792434, 12.125266255851022, 299.32245668449616, 8.03096973836205]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.43165855561858, 11.384570173392506, 294.86142333565067, 7.807427283857296]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.51422225379471, 11.05605255514724, 256.7923661541555, 7.4580385927407615]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.3020816142013, 10.655591221093777, 7.583904086493192, 8.032735734569215]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.658779124837004, 10.207922910970382, 248.879458776231, 7.072767467254902]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.488445822222744, 10.993923551159906, 234.86949272716302, 6.8828922342714]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.635665144677034, 10.169803361441488, 238.53385792572894, 6.686462875545722]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.540132814315214, 9.388859024307212, 235.33967723885442, 7.048435535222174]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.430060183463496, 10.647721080900796, 213.92674786283075, 6.728632625917075]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.97024244051967, 10.56493480746293, 204.26564505526292, 6.679324334135105]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.10236785299743, 8.579848556571411, 204.1261416104938, 6.590919891658149]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 4.789473684210526, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[69.89606261422298, 15.822848284502882, 508.0984087081484, 19.535455693804092]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.21347941987765, 16.770905372413168, 435.9321471549405, 18.86241357079846]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[58.57036217182234, 15.3592861182263, 442.11217440780416, 17.132925861336687]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.31382411546271, 14.794015210160516, 411.9885496647446, 17.452103877905504]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.746765886423944, 14.1598790722085, 402.91639330924136, 10.49351162979228]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.121313072224986, 14.464722611211986, 367.5552993663588, 10.13143718328495]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.49968416553105, 12.70790376562247, 330.6454177573885, 9.641331928028169]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.09137903889553, 12.570347389953769, 330.5322703913776, 8.303368677228242]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.977974239234214, 11.858054869323809, 302.1533934153555, 8.422183795182944]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.178206870469864, 10.99763327990129, 286.0525600922506, 7.653743347478219]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.84452204448972, 11.107742885663171, 278.62700449609116, 7.323702375436028]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.83072896745098, 10.746867124367569, 260.1985504076446, 6.5937521060127064]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.47514678220331, 10.23432360768277, 245.631891140923, 6.937556507164852]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[56.56766276373498, 10.969163313458512, 231.9543131591659, 6.984970976533087]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.75263211759722, 10.198490145868016, 234.6062372210298, 6.7112600081826885]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.36260187189533, 9.576052076627274, 204.28278104606997, 6.688036489964415]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.685442855771356, 10.190962070098166, 212.87142275947255, 6.460155345318617]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.7751365578528, 8.902205318224864, 196.18798742185166, 6.481072327792529]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.65202504388788, 8.69756282384772, 219.39953262296007, 6.532774832888465]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[39.983634887931885, 8.836895450528711, 207.2506446506105, 6.313889849131815]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.263157894736842, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[60.97438973779483, 16.12064521622684, 478.4034256616227, 19.049312636300975]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.70414804102631, 16.838237272617864, 444.7236205259884, 19.071209434627722]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.1439266077236, 14.875546343682629, 447.14475199057637, 19.59966653113339]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.29020966099334, 15.331713373305888, 384.5694597073539, 11.673928653333236]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.682626285311045, 14.344201492403636, 391.49795186136646, 12.728390692762055]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.39554759794082, 12.866639899106726, 339.1665433039831, 9.543680578736101]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.64642787596151, 13.576447825339764, 295.4616574352509, 9.32623976922514]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.5965824060296, 12.043672815007234, 299.0141952049361, 7.572832169618016]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.46356765283728, 11.373434010630813, 265.37168074627147, 8.115739577537994]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.012421989706816, 11.536457593110443, 262.27756753936967, 7.228858559262244]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.31659035491103, 10.894800321690287, 263.17377086245955, 6.934408998605028]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.498709546400114, 10.973764687114427, 248.37308647952003, 6.803582747139871]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.97818832764679, 10.005645690936014, 238.34647181613147, 7.332054730615036]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.81612039900194, 9.807596692418274, 232.76107889112592, 6.588551792164089]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.997715049779885, 9.702274063319491, 201.1653187419844, 6.398528427566888]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.00962857389924, 9.012248090515781, 216.84363989872705, 6.504911680407331]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[39.86590113204328, 8.393074459214377, 202.07931316392333, 6.6107390382773685]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.1362319749745, 9.062124690374997, 193.7890015798521, 6.2351686273918485]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[57.59047848789281, 8.709105947828812, 195.21824441158478, 6.4162145627381095]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[56.788809097574294, 8.559060749870342, 167.32499775633977, 6.23530822591583]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 5.7368421052631575, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[52.23969536698769, 16.21134976013106, 503.9971691282549, 19.492087713278096]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[72.49413509116395, 16.51211460589267, 464.19220440090555, 18.249737652580325]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.522611328480544, 15.62451313492063, 432.0356610639633, 17.786901719115612]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.09104406826793, 14.231668496074267, 410.34154630051563, 14.795832205436595]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.99721405770567, 13.9633304782647, 363.49417676350913, 14.925428178724967]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.61672229752015, 14.048207494268176, 307.16059531204814, 8.051309689461421]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[57.60340085464872, 12.013916797853133, 299.7833891076306, 7.873865369831668]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.67109523353252, 11.877809379630564, 284.105114325758, 7.999524697632383]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.553867320340345, 11.946698342484186, 271.84938714256845, 7.708494341018618]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.05500165415359, 10.545630259202264, 250.1473780750675, 7.197059356891037]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.25086964570924, 10.752485013550745, 234.42916859192275, 7.0974839326050905]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.6672484141775, 10.352255792407869, 212.95602109775342, 6.996435107179655]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.5641789263207, 9.866335003084886, 242.998040924899, 6.493418231338143]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.420241022519285, 9.781086873676092, 220.40186233192594, 6.483441292282734]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.78396597095623, 9.893097153107082, 210.92127794729473, 6.510095383699684]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.57712310791401, 10.120337656400576, 214.52156156327362, 6.314825897373898]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.73079963512344, 8.484439121078484, 201.47575265205205, 6.137071974614732]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.319548660223795, 8.776466093970479, 196.31187556819393, 6.246603004077508]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[57.365094929484144, 9.417950907198286, 175.87962670548458, 6.244360896323215]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.53224632954033, 8.6390353603104, 182.5736034922042, 6.169552753338652]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.2105263157894735, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.94319219802052, 16.26758276053108, 454.6803742443908, 18.386738089298657]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.28021780769594, 15.759849037592442, 455.6523628583173, 18.52374347799991]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.06919485669333, 14.783387973635017, 403.2097283797537, 19.700713448199057]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.11188574646824, 13.635900637254737, 411.6008503468887, 14.861208174979186]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.03085472652347, 13.473598048934742, 358.81735975213064, 8.831995458226329]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.92880245193482, 12.61057630734174, 312.2367130943966, 8.784614742317169]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.22687419781852, 12.10418997547739, 292.098777626585, 8.388124609159645]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[60.50100141483333, 11.867376664579428, 278.807673400036, 7.1462708538048005]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.11372812079894, 11.722120638754495, 232.3800368965444, 7.949818791060874]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[58.2934352138921, 10.824132490554653, 242.5682675357158, 7.629603174417506]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[38.24986581649598, 10.21778419985413, 232.31803336595712, 7.217013989689162]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[52.66228430806248, 9.630508217749922, 224.54797975436063, 6.955946831916863]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.79506603628415, 10.208685392052452, 201.4720313708087, 6.598029749079718]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.47300441718044, 9.195154001879201, 204.71004029728633, 6.366306899781091]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[38.47888023596598, 9.508105940852309, 196.44547030089942, 6.525943305134545]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[38.78181433520017, 9.347743239008356, 186.1578413081116, 6.292558812338851]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.50410489969481, 8.983120051533641, 188.64000891969067, 6.2993498483330175]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[38.184157456579, 8.26648478343905, 192.83315930119883, 6.154413114167768]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[37.23438908432901, 9.023208429233488, 7.3805703506576315, 6.100692603855233]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.60623033108139, 8.319419105536973, 168.612575585952, 5.966358998311219]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 6.684210526315789, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.124348648001366, 16.975677305262206, 458.4040158165749, 18.522633480814346]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.2474307485015, 14.898233978511849, 443.4354788226147, 18.69176289409166]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.184000677313534, 14.014311082543463, 424.54680299141626, 15.385492004789675]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.36987794252097, 13.601558038124594, 382.91064878235056, 9.745798526077296]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.7872081606583, 13.115802130640867, 327.59441694752434, 8.231819302150456]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.76859032907729, 12.218587578144655, 284.7454995478993, 8.200187617567506]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.21925098640154, 11.113766422207682, 283.9846049218295, 7.556396148163763]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.45533860224892, 11.239354613908475, 257.72936101022566, 7.575901480283202]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.25626490518101, 10.418887799478483, 250.5419781712968, 7.087707590291027]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[54.91766298563797, 9.83093209468259, 252.48708574542204, 6.892104763787184]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[39.4122690630588, 10.813800455592153, 205.27350815122819, 6.599960373431596]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[36.22505642542607, 9.806184386457216, 204.33624185827787, 6.524012468585746]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[37.036979412574425, 8.993205886846322, 203.81076631007002, 6.359827022231506]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.82264874713706, 8.904518224904265, 196.60226612704662, 6.4024223358876755]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.15739478698172, 7.83508545960817, 195.69926652174064, 6.485423333693059]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.36028114692638, 8.396533270022672, 192.20579316129766, 6.325400935274771]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.43031442370984, 7.835164033076236, 188.64483964962565, 6.27403251509184]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.71487298329744, 7.892837995033947, 169.55365646906702, 5.999196333158304]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.301034642453025, 7.152016015344458, 180.6616013150037, 6.039005709238414]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.5821925810853, 7.653054181632351, 7.22979618785188, 6.0589736859416625]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.157894736842105, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.703954826063594, 15.802873954182658, 474.3279997990086, 17.814465350240678]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.113670880408776, 15.439068606468123, 421.12201751530654, 20.494358047748243]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.423507458307846, 14.42538489932946, 402.90301516367384, 13.219686863054545]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.91354390613213, 13.500912357468966, 368.0436033563465, 8.755686487543176]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.81415692596747, 13.086297310333368, 321.60595194189136, 8.518698684951515]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.39933224374588, 12.273356106993747, 268.68688632032155, 7.624431893331387]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.60574296443851, 10.882352343280907, 285.264921516433, 7.621164484942987]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.61518391080259, 10.977955663310013, 251.94141398238486, 7.397375736264847]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[63.89018035753743, 10.848280664856526, 235.87250629397744, 7.512683106423408]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.30826299760978, 10.327285190400351, 226.11457687579, 7.095482516536132]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.54711929164027, 9.703867468157787, 220.85959365851483, 6.6091196596013075]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.243737633450145, 9.542336678190525, 223.71979990645772, 6.62827897086647]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.213855459953926, 8.75023944486983, 188.33431855008348, 6.4041874916212524]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.453500440088895, 8.04593740881761, 185.0160788578403, 6.257604223213745]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.421065888397784, 8.48775124422332, 192.01270506848934, 6.019434277245538]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.49507942546447, 8.317434622278283, 7.128618498577202, 5.913541452858775]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.19201025847757, 7.122108479337385, 182.15227910253552, 5.810307919219665]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.584676894508846, 8.131646783653705, 7.409568310259086, 5.889453191789969]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.502592114178164, 7.727838257388401, 169.06958458445337, 5.776461219309364]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.92282765628301, 7.587009872823961, 7.1588842847311795, 5.728388351741933]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 7.63157894736842, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[65.71991669927993, 16.579555581669347, 453.7581122347785, 20.584836013551783]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.10734859662868, 15.141371893491627, 418.39653114186547, 19.90283747196817]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[38.291976039712424, 14.712756602712155, 374.8201238794919, 11.594921024003263]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.68228585282176, 13.323505430345087, 352.45848896103575, 9.181931166909004]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.52693437195978, 12.564363993079118, 320.0989020649135, 8.409476779602985]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.670892806940785, 11.571598929938439, 295.0449285233893, 7.865466044305078]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.16646160328371, 11.149010764163643, 258.2369523301665, 7.545110138453106]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.60782977577242, 10.486917263085896, 255.534515542044, 7.464994254617295]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.61132892242101, 9.966496742551193, 271.8384162417517, 7.196035338191132]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.78291663709641, 8.438417114740874, 7.993644751153591, 6.965834876643408]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[39.30612345856238, 9.473710120399014, 208.63855297955897, 6.387164219036052]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.18146662460573, 8.03575253284561, 203.54748886328565, 6.3432238546176]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.98786968336324, 8.906603925641257, 201.85858121448013, 6.185338954468217]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.150981141573844, 8.479864317427543, 177.68633399829034, 6.093329022915167]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.892127286534674, 8.00403444686321, 182.996525703397, 5.919802570259452]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.278188263005106, 8.188598554177826, 176.74431352757992, 5.868328550134675]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[37.824687002436825, 8.436506399238317, 175.27789410352352, 5.629144822307878]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.26976009622522, 8.56517772575747, 166.6937141639189, 5.888632153281625]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[38.64271414305715, 7.904632230216373, 6.566260570573035, 5.671197231057774]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[39.99710860310102, 7.738540058954101, 7.32308701119875, 5.864798764575018]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.105263157894736, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[65.30230563998796, 15.957622070253183, 449.57771267556393, 20.256596211277024]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.70188878324921, 14.568850521912122, 433.94738506027403, 18.394647425026243]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.46643479945159, 13.460403171717166, 386.25097587127016, 13.607145786675753]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.45247020688372, 12.79645607482561, 319.82614292951473, 10.598467884309466]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.921441680548895, 11.083848400251807, 295.06915165624304, 8.436803248878919]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.310972862723524, 11.35367463460671, 280.2659839317124, 7.901253873623677]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[55.82367412661709, 11.83184579640275, 237.73837787107965, 7.075121081969941]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.87180305757659, 10.808396941855486, 236.54919555762018, 7.131640230708971]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[38.10681935661157, 10.380023520174351, 217.48183369111314, 6.892250608492272]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.526744160522526, 10.765626328842183, 217.10206460564123, 6.424966786083581]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.72464542518861, 9.41379005713573, 199.38975237341847, 6.19442282123587]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.30690392839069, 9.550690964646753, 186.26880931921087, 6.315420697743989]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.78853478554861, 8.978613518554349, 200.02505520416352, 6.044609370620329]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.00307335170336, 8.533213281318753, 173.7854396363821, 6.048162527610255]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.77603831941154, 8.478535306102412, 169.6189830563522, 5.874767376320312]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.978799195393755, 7.527320106669864, 166.5935375048812, 5.6784454720542135]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.64152016429581, 7.418353798790017, 167.75886378872934, 5.727909049483644]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.54688400162686, 7.800673647041883, 7.186011507065276, 5.67917087044719]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.197782666604446, 7.104555308169466, 6.946933996887128, 5.557292330356526]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.84290744656616, 7.865593024198795, 7.044014888100072, 5.341967397039861]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 8.578947368421051, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.73682165111841, 15.818792596728702, 471.30346355017423, 16.720328357227988]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[41.77623463100626, 15.547139235675019, 379.85365718589713, 16.98673712252104]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.901082066807184, 14.040381248001477, 343.82208799757655, 13.340993283728293]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.53872128367872, 12.625508390709582, 320.05351255564796, 8.224814499608907]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.00566082941245, 12.25396260643885, 301.0957675004553, 8.552243284986934]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.99598482585572, 11.347013467818186, 268.81242095488426, 7.361168839744131]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.60423484242619, 11.026638478817155, 236.78246504763575, 6.850305480484302]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.64436381906705, 9.6154423517, 218.16824795714376, 6.67589510645236]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.76853514437149, 10.9815339264927, 210.20592796767554, 6.808611022456313]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.305512961128656, 8.969303279493419, 213.74349306801878, 6.434864904746333]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.43302021801697, 8.973300209564169, 192.9273736030143, 6.4300849321155615]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.80959838055462, 8.68602370800185, 189.59292646267974, 5.980874096313296]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.3006847926808, 9.02202679065216, 177.56027740796642, 5.9659909793226085]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.99763584531789, 8.067765577664364, 166.7791790245453, 5.8875605077892885]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[50.286827936993625, 7.69752467646493, 162.39457622826828, 5.6813418259740285]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.84425882567954, 8.092422922010362, 7.186197253409913, 5.844549387955931]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.10064937931512, 7.677831112102259, 7.060406402051331, 5.50421031340922]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.983768253035294, 7.333600331202867, 7.153145146719883, 5.662764744146139]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.917316164152204, 7.046319463766098, 7.107702493641753, 5.753170500974342]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[47.108389093088874, 7.329487147484601, 7.302859672878046, 5.654247344080868]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.052631578947368, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.48685924731257, 15.65749301659913, 475.2533340670117, 17.857556737114496]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.79837370238074, 15.298003707813404, 416.84533311350395, 17.91940260288835]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.44617677072185, 13.983108872467179, 364.8067490173349, 14.4003486146323]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[66.34881866369051, 12.05574841050757, 308.0014161610551, 9.63709516141685]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.79862311429252, 11.39954276067414, 310.4892879337966, 8.065272300304056]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[39.04937632538249, 11.466789176613482, 262.68947626487324, 7.533834922258407]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.92934809335299, 10.667719728225954, 235.04712906234306, 7.071936713250688]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.682462124947236, 9.314017017135859, 214.58110406148774, 6.553834509986885]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.79278799950967, 9.54778421758606, 218.8711330523363, 6.29897278414197]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[40.10462194573449, 9.308210218359736, 200.0206237161578, 6.409582515185516]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[49.378793185122355, 9.401557230380886, 174.00670523415005, 6.303470117632907]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.060371522344916, 8.167375453377531, 177.98548955578912, 5.8105821896733945]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.66418075188765, 8.429383119164651, 172.21692387328235, 6.233002854587664]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.11775229467117, 8.202992749983279, 172.16230821404787, 5.678062272829604]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.52686230214422, 7.249038945807195, 7.101030183375213, 5.943733550171148]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.69678766232195, 7.638323608858904, 158.52677808582624, 5.692866447051575]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.83513896266355, 7.743642352757671, 7.194168084061831, 5.711137577417022]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.57356788385707, 7.821167118457476, 7.163541381406144, 5.626316956090492]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.85776185244666, 7.641816542099196, 7.244157614792368, 5.617423308745931]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.87893540997251, 7.464250086437039, 7.253771427201155, 5.44827080435902]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 9.526315789473683, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.42472507860434, 15.705655205141234, 452.67406696742466, 20.552115184208382]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 1.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.55080238756214, 14.764730829917102, 385.1006583319107, 11.975422052565074]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 1.4736842105263157, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.48213142475782, 12.770101122654195, 332.94031850189094, 14.00903066750155]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 1.9473684210526314, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[51.650385931034116, 13.368452648334102, 289.5596377109311, 8.512310420516771]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 2.4210526315789473, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.903724538535876, 10.748929587848675, 280.6957395577133, 7.717740662452178]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 2.894736842105263, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[45.029426895382144, 10.520933678039427, 242.35026103843046, 7.357576266474805]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 3.3684210526315788, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.41896319540769, 10.756206004018486, 7.551141232984612, 6.933366909747375]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 3.8421052631578947, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.58333605308475, 10.18397317396431, 218.52790556002176, 6.449297002362359]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 4.315789473684211, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[42.5361913372529, 8.903202028406561, 204.6365915064194, 6.260742174683846]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 4.789473684210526, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.767738699195874, 8.418975967588086, 186.70665345273508, 6.2621608307405]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 5.263157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.360772220854, 7.662090801161332, 184.64486310125147, 6.388535535846669]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 5.7368421052631575, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[46.539297380085955, 7.857041218450501, 183.5974557906535, 5.997298870883927]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 6.2105263157894735, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.26004337399761, 7.858632318603867, 167.36994844161674, 5.968411334943073]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 6.684210526315789, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[43.611638553494764, 8.506088116394544, 164.609782136123, 5.79599970568544]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 7.157894736842105, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.4018956095815, 7.610731656196116, 7.445840441059865, 6.015148518660397]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 7.63157894736842, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.47473235616032, 7.555049528695758, 7.22421716847008, 5.571229557741173]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 8.105263157894736, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[44.72773110065045, 6.678500386905328, 7.5283668206689995, 5.599788357981024]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 8.578947368421051, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[48.23842980639008, 7.490318627242781, 7.663557439107926, 5.735193988610738]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 9.052631578947368, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.23129479432455, 7.206289544572426, 7.373694472018592, 5.764954817971543]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 9.526315789473683, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+
+
+Sigmas
+[53.18379083642062, 7.034156027620398, 6.822023566203672, 5.668533274405669]
+Params
+{'delays_mu': 1.0, 'ratio_amps': 10.0, 'ratio_taus': 10.0, 'ratio_weights_EI': 1, 'sparseness': 0.1, 'stdp_amps': 0.002, 'stdp_max_weight': 1, 'stdp_weight_init': 0.5, 'taus': 25, 'weight_mu': 1.5}
+

@@ -141,7 +141,7 @@ def input_to_currents(video, FPS, total_time,
                                       B_theta=B_theta, sf_0=sf_0, B_sf=B_sf,
                                       on_thresh=on_thresh, off_thresh=off_thresh,
                                       distrib_size=distrib_size, grid_res=grid_res)
-                                     for theta in np.linspace(0, np.pi, N_theta))
+                                     for theta in np.linspace(0, np.pi/2, N_theta, endpoint = True))
 
     if verbose:
         print('Done ! Generating currents from filters ..')
