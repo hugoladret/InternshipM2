@@ -2,19 +2,19 @@
 # English Below
 ![Could not display banner](https://dircom.univ-amu.fr/sites/dircom.univ-amu.fr/files/logo_amu_rvb.png)
 
-Code source pour un stage de seconde année de Master de Neurosciences avec [Laurent Perrinet](https://invibe.net/LaurentPerrinet/HomePage).
+Code source pour un stage de seconde année de Master de Neurosciences avec [Laurent Perrinet](https://invibe.net/LaurentPerrinet/HomePage). Le [rapport](https://github.com/hugoladret/InternshipM2/blob/master/M2A_Rapport.pdf) est écrit d'une perspective principalement électrophysiologique et le code disponible ici le complète en approfondissant les détails techniques de l'aspect computationnel.
 
   
 # Organisation :
 ### Code :
-Le code est organisé sous forme de notebooks interactifs, entièrement documentés, qu'il est possible de modifier pour pouvoir s'approprier la dynamique du réseau. 
+Le code est organisé sous forme de notebooks interactifs, entièrement documentés, qu'il est possible de modifier pour pouvoir jouer avec  la dynamique du réseau. 
 
-Pour un coup d'oeil rapide, les notebooks les plus complets sont ceux avec le préfixe FINAL_
+Pour un coup d'oeil rapide, les notebooks les plus complets sont ceux avec portant le préfixe FINAL_
 
-Pour voir en détail le développement du code, tout les notebooks expérimentaux se trouvent dans le dossier /dev
+Pour voir en détail le développement du code, tout les notebooks expérimentaux ( environ 80k lignes de code) se trouvent dans le dossier /dev
 
 ### Figures :
-Toutes les figures se trouvent dans le dossier /figs, notamment certaines non inclus dans le rapport final.
+Toutes les figures se trouvent dans le dossier /figs, dans une grande partie ne sont pas incluses dans le rapport final.
 
 Pour se faire une meilleure idée des processus dynamiques, quelques animations :
 #### MotionClouds
@@ -48,7 +48,7 @@ Il faudra quand même installer :
 
 ----------------------------------------------------------------
 # MSc Neuroscience internship
-Source code for a second year internship in a Master of Neuroscience degree, with [Laurent Perrinet](https://invibe.net/LaurentPerrinet/HomePage)
+Source code for a second year internship in a Master of Neuroscience degree, with [Laurent Perrinet](https://invibe.net/LaurentPerrinet/HomePage). Whereas the lab report (in French) has been written from a neurophysiology perspective, the goal of this repo is to provide the reader with many technical details that weren't included due to a 15 page size constraint.
 
 # Repository organization :
 #### Code :
