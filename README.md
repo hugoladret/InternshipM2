@@ -33,8 +33,7 @@ On peut alors sélectionner les paramètres qui sont optimaux ET biologiquement 
 
 #### Stimulus naturels
 Si on peut utiliser le modèle de voie rétino-thalamique pour montrer au réseau de neurones des stimulus controlés utilisés en neurosciences comme les MotionClouds, il est aussi possible d'utiliser, de manière moins sérieuse, des films. Voici par exemple le contenu en orientation que le modèle représente intérieurement en visualisant 10 secondes d'une scène du film 'Jurassic Park'. A gauche la distribution des orientations autour d'un cercle trigonométrique, à droite le film correspondant : 
-![ERROR : Could not load gif. Check if ./figs/orientation_representation.gif exists ?](./figs/orientation_representation.gif)
-![ERROR : Could not load gif. Check if ./figs/movie_jp.gif exists ?](./figs/movie_jp.gif)
+![ERROR : Could not load gif. Check if ./figs/merged_gifs.gif exists ?](./figs/merged_gifs.gif)
 
 
 # Dépendances :
