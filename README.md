@@ -18,7 +18,7 @@ Toutes les figures se trouvent dans le dossier /figs, dans une grande partie ne 
 
 Pour se faire une meilleure idée des processus dynamiques, quelques animations :
 #### MotionClouds
-La structure des MotionClouds (MC) est proche de celle d'un grating, tout en imitant les textures naturelles, rajoutant du bruit et du réalisme dans l'entrée, ce qui constitue un bon compromis entre un stimulus entièrement paramétrique et une image naturelle. Ce sont des caractéristiques difficiles à apprécier dans une figure statique, mais tout à fait visible dans cette animation (paramètres 
+La structure des MotionClouds est proche de celle d'un grating, tout en imitant les textures naturelles, rajoutant du bruit et du réalisme dans l'entrée, ce qui constitue un bon compromis entre un stimulus entièrement paramétrique et une image naturelle. Ce sont des caractéristiques difficiles à apprécier dans une figure statique, mais tout à fait visible dans cette animation (paramètres 
 &theta; = &pi; / 3 , B &theta; = 15°)  :
 
 ![ERROR : Could not load gif. Check if ./figs/mc_anim.gif exists ?](./figs/mc_anim.gif)
@@ -30,6 +30,10 @@ Pour visualiser le rôle de chacun des paramètres du réseau, une manière de r
 ![ERROR : Could not load gif. Check if ./figs/gradient_ratio_anim.gif exists ?](./figs/gradient_ratio_anim.gif)
 
 On peut alors sélectionner les paramètres qui sont optimaux ET biologiquement plausibles
+
+#### Stimulus naturels
+Si on peut utiliser le modèle de voie rétino-thalamique pour montrer au réseau de neurones des stimulus controlés utilisés en neurosciences comme les MotionClouds, il est aussi possible d'utiliser, de manière moins sérieuse, des films. Voici par exemple le contenu en orientation que le modèle représente intérieurement en visualisant 10 secondes d'une scène du film 'Jurassic Park'. A gauche la distribution des orientations autour d'un cercle trigonométrique, à droite le film correspondant : 
+
 
 # Dépendances :
 En plus de l'installation de Python3, certains packages sont requis pour pouvoir faire tourner le code. Pour simplifier toute l'installation et éviter de devoir télécharger les librairies de base, je vous conseille d'utiliser directement [Anaconda](https://www.anaconda.com/download/), qui regroupe des packages par défaut. 
