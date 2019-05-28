@@ -1,5 +1,10 @@
 # Stage M2a et M2b Neurosciences
 # M2b
+Les notebooks du stage de M2b sont disponibles dans /dev_M2b/.
+
+Les notebooks qui ont servis à générer les stimulations visuelles se trouvent dans /stimulation_notebooks/
+
+Toutes les figures sont disponibles dans /figs/.
 
 # M2a
 # English Below
