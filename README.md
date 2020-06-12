@@ -55,7 +55,7 @@ Il faudra quand même installer :
 
 ### Les générateurs de stimuli :
 * [LogGabor](https://pypi.org/project/LogGabor/), pour faire des [Gabors](https://en.wikipedia.org/wiki/Log_Gabor_filter) dans nos stimuli
-* [MotionClouds](http://www.motionclouds.invibe.net/install.html), les stimuli dynamiques qui ressemblent a des textures naturelles
+* [MotionClouds](https://neuralensemble.github.io/MotionClouds/install.html), les stimuli dynamiques qui ressemblent a des textures naturelles
 * [LazyArray](https://lazyarray.readthedocs.io/en/latest/installation.html), une forme de donnée particulière qui optimise l'usage des ressources de l'ordinateur
 * [Lmfit](https://pypi.org/project/lmfit/), un package pour *fitter* des fonctions aux données, notamment pour les distributions gaussiennes ici
 
